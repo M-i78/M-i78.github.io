@@ -1,6 +1,6 @@
 ---
-title:  "对不起"
-subtitle: "分析"
+title:  "20221019"
+subtitle: "test"
 author: "baozi"
 avatar: "img/authors/wferr.png"
 image: "img/a.jpg"
