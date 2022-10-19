@@ -1,7 +1,7 @@
 # Site settings
-title: Modern Blog
+title: M-i78 / 10#
 description: Modern-Blog A Elegant template for Jekyll
 keywords: Modern, Blogging, Fun
-author: Wferr
+author: baozi
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://m-i78.github.io" # the base hostname & protocol for your site
