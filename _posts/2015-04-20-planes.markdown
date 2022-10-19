@@ -1,14 +1,25 @@
 ---
-title:  "Planes are cool!"
-subtitle: "The Fly!"
-author: "Wferr"
+title:  "对不起"
+subtitle: "分析"
+author: "baozi"
 avatar: "img/authors/wferr.png"
 image: "img/a.jpg"
-date:   2015-04-20 12:12:12
+date:   2022-10-19 12:12:12
 ---
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+### 对不起?
+有一些人，经常觉得自己 “对不起”别人。
+他们过度地反思自己对别人造成的伤害、并长期、过度地为此感到内疚、自责。
+比如在分手多年后还常常想着，“如果不是我曾经伤害了他，他现在一定过得更好吧。”
+也有时，我们收到一些人的道歉，“真对不起，我伤害了你”。但不知道为什么，我们却反而感到更加生气了。
+“内疚”是一种含义丰富的情感，这种内疚与自责背后隐藏着一些别的东西。比如，对控制感的强烈渴望，还比如自恋。它对我们的生活发挥着复杂、丰富的功能
+首先，内疚感是与自卑紧密相连的。一个对自己没有自信的人，在面对失败时，更容易把原因归咎于自己，因为他觉得自己不够好，因此不好的事情都是由自己导致的。
+其次，内疚感往往是由于过度敏感。当对外界的事情，特别是外界人们的反应过度敏感时，别人的一个微表情、轻轻皱一下眉头、或者轻轻叹一口气，都让敏感型的人感觉到不舒服。
+本来不是多大的事，但是他依然会觉得事态严重，加之自卑心理，就更容易把失败的原因归咎于自己。
+其实，感到内疚和痛苦、不快是一回事。不要总把过去的事情拿到现在来纠缠，放下它！没有必要记住人生中做过的每一件事。有行为就必然有结果，事情就是这样的。
+对发生过的事，再感到生气、焦虑，都已经无法改变了。只有现在做的事，才能会让未来有所改变。
+负面的情绪会搅乱人们的心，骄傲自大也会让人头脑发热。我觉得，不论是失败还是其它不快，都是内心中的真心在试图帮我们摆脱过去，这种行为没有好坏之分，只会因我们的思想对它看法的顺与逆，或者把它变成好与坏。
+千万不要胡思乱想，过去了就让它过去，无法重来，别去内疚。关键的是：珍惜拥有，活好当下，在余生有效的时间里活的开心快乐才是最佳。
 
 ### Aliquam suscipit.
 Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
