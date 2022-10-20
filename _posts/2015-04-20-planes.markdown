@@ -1,15 +1,19 @@
 ---
 title:  "想 说说"
 subtitle: "半场空欢喜？半场意难平？"
-author: "baozi"
+author: "作者是我"
 avatar: "img/authors/wferr.png"
 image: "img/a.jpg"
 date:   2022-10-11
 ---
 
-#### 对不起?
-有一些人，经常觉得自己 “对不起”别人。
-他们过度地反思自己对别人造成的伤害、并长期、过度地为此感到内疚、自责
+### 经常会有这种感觉，如果这个事情来了，却没有勇气去解决掉它，它一定会再来 
+### 生活就是这样，会一次次让你去重复直到学会为止...
+
+不知道为什么会一次又一次的重复吧，感觉是个问题，又感觉不是个问题
+生活大多数时候都是这样
+也许之所以理想很珍贵，就在于理想总是遥不可及吧
+
 
 #### 我知道什么意思了.
 Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
