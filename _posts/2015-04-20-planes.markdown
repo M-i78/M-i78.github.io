@@ -7,19 +7,17 @@ image: "img/a.jpg"
 date:   2022-10-11
 ---
 
-### 经常会有这种感觉，如果这个事情来了，却没有勇气去解决掉它，它一定会再来 
-### 生活就是这样，会一次次让你去重复直到学会为止...
-
+## 经常会有这种感觉，如果这个事情来了，却没有勇气去解决掉它，它一定会再来 
+## 生活就是这样，会一次次让你去重复直到学会为止...
 不知道为什么会一次又一次的重复吧，感觉是个问题，又感觉不是个问题~
 生活大多数时候都是这样~
 也许之所以理想很珍贵，就在于理想总是遥不可及吧
+--221011
 
-####221011
-
-### 前进一步
-
+## 前进一步
 怎么才算是前进了一步？
-进入了一个新的阶段？
+进入了新的阶段？什么是新阶段？或者说怎样的不同才是新阶段？
+不知道了
 
 Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
 
