@@ -1,9 +1,10 @@
 ---
-title:  "20221019"
-subtitle: "test"
+title:  "测试"
+subtitle: "中文"
 author: "baozi"
 avatar: "img/authors/wferr.png"
 image: "img/a.jpg"
+date:   2022-10-XX
 ---
 
 #### 对不起?
