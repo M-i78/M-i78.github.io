@@ -1,6 +1,6 @@
 ---
-title:  "测试"
-subtitle: "中文"
+title:  "想 说说"
+subtitle: "半场空欢喜？半场意难平？"
 author: "baozi"
 avatar: "img/authors/wferr.png"
 image: "img/a.jpg"
