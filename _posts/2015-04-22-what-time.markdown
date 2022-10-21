@@ -1,7 +1,7 @@
 ---
 title:  "TBC..."
 subtitle: "tbc"
-author: "作者是我r"
+author: "作者是我"
 avatar: "img/authors/wferr.png"
 image: "img/c.jpg"
 date:   2022-10-19
