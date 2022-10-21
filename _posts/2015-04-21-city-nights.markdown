@@ -1,7 +1,7 @@
 ---
 title:  "TBC..."
 subtitle: "tbc"
-author: "Wferr"
+author: 作者是我"
 avatar: "img/authors/wferr.png"
 image: "img/b.jpg"
 ---
